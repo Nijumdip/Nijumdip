@@ -60,14 +60,15 @@
 </h2>
 
 <p align = "center">
- <img src="https://github-readme-activity-graph.cyclic.app/">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JaznanOfficial&theme=tokyo-night">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github.com/Nijumdip/Nijumdip/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/JaznanOfficial/JaznanOfficial/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+<hr/>
 <hr/>
 
 <!-- my contribution -->
