@@ -1,17 +1,18 @@
 ### Welcome To Nijum Dip's Github 👋
 
-![](https://komarev.com/ghpvc/?username=Nijumdip&color=Pink)
+![](https://komarev.com/ghpvc/?username=Nijumdip&color=ff69b4)
 
-<!-- profile view counter -->
-<!-- <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2> -->
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap"/>
  <img src="https://img.shields.io/badge/-Tailwind Css-black?style=flat-square&logo=tailwindcss"/>
- <img src="https://img.shields.io/badge/-Material Ui-black?style=flat-square&logo=mui"/>
+ <!-- <img src="https://img.shields.io/badge/-Material Ui-black?style=flat-square&logo=mui"/> -->
+<img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square"/> 
 
+ 
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=Node.js"/>
