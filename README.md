@@ -69,7 +69,6 @@
   <img src="https://github.com/JaznanOfficial/JaznanOfficial/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <hr/>
-<hr/>
 
 <!-- my contribution -->
 
