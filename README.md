@@ -60,7 +60,7 @@
 </h2>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Nijumdip&theme=tokyo-night">
+ <img src="https://github-readme-activity-graph.cyclic.app/">
 </p>
 
 <br>
