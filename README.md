@@ -1,6 +1,6 @@
-### Welcome To Abdur Rahman's Github 👋
+### Welcome To Nijum Dip's Github 👋
 
-![](https://komarev.com/ghpvc/?username=JaznanOfficial&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Nijumdip&color=pink)
 
 <!-- profile view counter -->
 <!-- <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2> -->
