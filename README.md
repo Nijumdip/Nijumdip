@@ -78,11 +78,11 @@
 
 <div align = "center">
  
- <img style="margin:50px;" src = "./images/cooking-bird.png" width='200' height= "400">
+ <img style="margin:50px;" src = "https://i.ibb.co/v3yQkvj/project1.jpg" width='200' height= "400">
 
- <img style="margin:50px;" src = "./images/doctalk.png" width='200' height= "400">
+ <img style="margin:50px;" src = "https://i.ibb.co/BV0K21n/project2.png" width='200' height= "400">
 
- <img style="margin:50px;" src = "./images/aos.png" width='200' height= "400">
+ <!-- <img style="margin:50px;" src = "./images/aos.png" width='200' height= "400"> -->
   
 </div>
 <div align = "center">
@@ -95,10 +95,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://github.com/jaznanofficial" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/jaznanofficial/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="40" width="40" /></a>
-<a href="https://twitter.com/jaznanofficial" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt="" height="40" width="40" /></a>
-<a href="https://www.facebook.com/jaznan.official/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png" alt="" height="40" width="40" /></a>
+  <a href="https://github.com/Nijumdip" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/nijum-dip-44441a222/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="40" width="40" /></a>
+<a href="https://twitter.com/NijumDip298" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt="" height="40" width="40" /></a>
+<a href="https://www.facebook.com/nizum.nizum.1481" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png" alt="" height="40" width="40" /></a>
 
 </p>
 
