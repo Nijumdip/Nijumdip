@@ -27,7 +27,7 @@
 
 <!-- technology i use -->
 
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQEbFju1LcKX8g/profile-displaybackgroundimage-shrink_350_1400/0/1634387640659?e=1671667200&v=beta&t=7Rxp05HrL700bb-vd3EK1HR4pI4yGN65heQz_mdUQ3k)](https://github.com/jaznanofficial)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQEbFju1LcKX8g/profile-displaybackgroundimage-shrink_350_1400/0/1634387640659?e=1671667200&v=beta&t=7Rxp05HrL700bb-vd3EK1HR4pI4yGN65heQz_mdUQ3k)](https://github.com/Nijumdip)
 
 <!-- my banner page -->
 
@@ -43,14 +43,14 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=JaznanOfficial&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JaznanOfficial&theme=tokyonight">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Nijumdip&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nijumdip&theme=tokyonight">
 </p>
 
 <br/>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JaznanOfficial&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Nijumdip&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </p>
 
 <!-- my stats -->
@@ -60,13 +60,13 @@
 </h2>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=JaznanOfficial&theme=tokyo-night">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Nijumdip&theme=tokyo-night">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github.com/JaznanOfficial/JaznanOfficial/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Nijumdip/Nijumdip/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <hr/>
 
