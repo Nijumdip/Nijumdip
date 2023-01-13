@@ -67,7 +67,7 @@
 
 <p align="center">
  
-  <img src="https://github.com/Nijumdip/Nijumdip/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://kasroudra-stats-card.onrender.com/lang?user=Nijumdip&layout=compact&type=donut&theme=tokyonight" alt="snake"></center>
 </p>
 <hr/>
 
