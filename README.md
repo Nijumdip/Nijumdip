@@ -88,7 +88,7 @@
 </div>
 <div align = "center">
  
- <img style="margin:50px;" src = "https://i.ibb.co/bQS1b5p/screencapture-jaznanofficial-github-io-sample-portfolio-2022-01-17-09-13-51.png" width='200' height= "400">
+ <img style="margin:50px;" src = "https://i.ibb.co/G5sx3rt/lantaburss.png" width='200' height= "400">
  <img style="margin:50px;" src = "https://i.ibb.co/Bw2HgVT/screencapture-jaznanofficial-github-io-mouse-food-house-2022-01-17-09-21-51.png" width='200' height= "400" 
 </div>
 
