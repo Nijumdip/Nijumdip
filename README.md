@@ -85,6 +85,17 @@
  <!-- <img style="margin:50px;" src = "./images/aos.png" width='200' height= "400"> -->
   
 </div>
+
+<div align = "center">
+ 
+ <img style="margin:50px;" src = "https://i.ibb.co/v3yQkvj/project1.jpg" width='200' height= "400">
+
+ <img style="margin:50px;" src = "https://i.ibb.co/BV0K21n/project2.png" width='200' height= "400">
+
+ <!-- <img style="margin:50px;" src = "./images/aos.png" width='200' height= "400"> -->
+  
+</div>
+
 <div align = "center">
  
  <img style="margin:50px;" src = "https://i.ibb.co/G5sx3rt/lantaburss.png" width='200' height= "400">
