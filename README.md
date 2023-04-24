@@ -27,7 +27,6 @@
 
 <!-- technology i use -->
 
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQEbFju1LcKX8g/profile-displaybackgroundimage-shrink_350_1400/0/1634387640659?e=1671667200&v=beta&t=7Rxp05HrL700bb-vd3EK1HR4pI4yGN65heQz_mdUQ3k)](https://github.com/Nijumdip)
 
 <!-- my banner page -->
 
